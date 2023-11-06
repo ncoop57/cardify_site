@@ -11,10 +11,16 @@ Cardify empowers you to take control of your education and master even the most 
 Maximize your learning potential with Cardify today!
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/auth_page.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/deck_creation_page.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/home_page.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/knowledge_test.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
